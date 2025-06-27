@@ -5,10 +5,6 @@ A curated collection for Machine Learning Engineers — featuring creative proje
 
 [Unsupervised Learning Projects](https://github.com/tajamulkhann/Machine-Learning/tree/main/Unsupervised%20Learning%20Projects)
 
-## Copyright ©
-
-Machine Learning Projects Completed by [Tajamul Khan](https://www.linkedin.com/in/tajamulkhann/)
-
 ## Support my Work
 If my work has helped you, I’d truly appreciate your support!
 
